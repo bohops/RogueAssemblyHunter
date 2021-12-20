@@ -51,7 +51,7 @@ Rogue Assembly Hunter was created to:
 * .NET Framework 4.6.1+
 * [.NET CLRMD](https://github.com/microsoft/clrmd) - Microsoft.Diagnostics.Runtime Introspection Library (NuGet Package)
 * [ILMerge]([https://github.com/dotnet/ILMerge) - Static Linker (NuGet Package)
-* ...andsupporting NuGet packages in Visual Studio.
+* ...and supporting NuGet packages in Visual Studio.
 
 ## Notes, Tips, & Caveats
 
