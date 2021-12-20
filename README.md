@@ -167,7 +167,7 @@ Invoke-RogueAssemblyHunter -ScanMode watch
 **SHA256 Hashes:**
 
 ````
-58c827d0328f60b816e1285b0abaa2b292154fefd44dec53e3600a0de2548397  Invoke-RogueAssemblyHunter.ps1
+e804711a8b6469f1b13b388de47dfa6dde1c85279d365db7b6e19e1644990fa6  Invoke-RogueAssemblyHunter.ps1
 cc985d918e566671aa209142abc55bd798ca6c1a18730b785ac8c18d489736c3  RogueAssemblyHunter_x64.exe
 ae3aead43871e263cd8465d5356c4daaae0635714321f872c931ec825008287a  RogueAssemblyHunter_x86.exe
 ````
