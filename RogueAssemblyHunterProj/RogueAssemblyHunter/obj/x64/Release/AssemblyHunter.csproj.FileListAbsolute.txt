@@ -1,0 +1,4 @@
+C:\Users\admin\source\repos\AssemblyHunterSource\AssemblyHunter\obj\x64\Release\AssemblyHunter.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AssemblyHunterSource\AssemblyHunter\bin\x64\Release\AssemblyHunter.exe.config
+C:\Users\admin\source\repos\AssemblyHunterSource\AssemblyHunter\obj\x64\Release\AssemblyHunter.exe
+C:\Users\admin\source\repos\AssemblyHunterSource\AssemblyHunter\obj\x64\Release\AssemblyHunter.csproj.AssemblyReference.cache

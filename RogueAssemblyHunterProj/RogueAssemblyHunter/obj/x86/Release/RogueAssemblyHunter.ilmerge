@@ -1,0 +1,11 @@
+RogueAssemblyHunter.exe
+Microsoft.Bcl.AsyncInterfaces.dll
+Microsoft.Diagnostics.NETCore.Client.dll
+Microsoft.Diagnostics.Runtime.dll
+System.Buffers.dll
+System.Collections.Immutable.dll
+System.Memory.dll
+System.Numerics.Vectors.dll
+System.Reflection.Metadata.dll
+System.Runtime.CompilerServices.Unsafe.dll
+System.Threading.Tasks.Extensions.dll

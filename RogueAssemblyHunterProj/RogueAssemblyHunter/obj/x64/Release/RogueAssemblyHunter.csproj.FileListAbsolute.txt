@@ -1,0 +1,7 @@
+C:\research\AssemblyHunter\RogueAssemblyHunterProj\RogueAssemblyHunter\bin\x64\Release\RogueAssemblyHunter.exe.config
+C:\research\AssemblyHunter\RogueAssemblyHunterProj\RogueAssemblyHunter\obj\x64\Release\RogueAssemblyHunter.csprojAssemblyReference.cache
+C:\research\AssemblyHunter\RogueAssemblyHunterProj\RogueAssemblyHunter\obj\x64\Release\RogueAssemblyHunter.csproj.CoreCompileInputs.cache
+C:\research\AssemblyHunter\RogueAssemblyHunterProj\RogueAssemblyHunter\obj\x64\Release\RogueAssemblyHunter.exe
+C:\git\RogueAssemblyHunter\RogueAssemblyHunterProj\RogueAssemblyHunter\bin\x64\Release\RogueAssemblyHunter_x64.exe.config
+C:\git\RogueAssemblyHunter\RogueAssemblyHunterProj\RogueAssemblyHunter\obj\x64\Release\RogueAssemblyHunter.csproj.CoreCompileInputs.cache
+C:\git\RogueAssemblyHunter\RogueAssemblyHunterProj\RogueAssemblyHunter\obj\x64\Release\RogueAssemblyHunter_x64.exe

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RogueAssemblyHunter", "RogueAssemblyHunter\RogueAssemblyHunter.csproj", "{103F0BFB-71A1-4CC1-A86B-392C204065EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{103F0BFB-71A1-4CC1-A86B-392C204065EC}.Release|x64.ActiveCfg = Release|x64
+		{103F0BFB-71A1-4CC1-A86B-392C204065EC}.Release|x64.Build.0 = Release|x64
+		{103F0BFB-71A1-4CC1-A86B-392C204065EC}.Release|x86.ActiveCfg = Release|x86
+		{103F0BFB-71A1-4CC1-A86B-392C204065EC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {180C4022-521D-47EC-8DE8-A79D9AA505E0}
+	EndGlobalSection
+EndGlobal
