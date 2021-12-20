@@ -60,7 +60,7 @@ Rogue Assembly Hunter was created to:
 * RogueAssemblyHunter uses the CLRMD to connect to live processes, which could introduce interesting results.
 * Due to the scanning nature of RogueAssemblyHunter, there is a possibility of race conditions and missed results. Consider tuning with the --checks and --sleep switches to help
   (especially in 'watch' mode). In some cases, it may be difficult to 'catch' a particular assembly load due to speed of execution (such as execute-assembly and sacrificial processes).
-* Architecture ('bitness') matters for interacting with remote processes with the .NET CLRMD libraries.
+* Architecture ('bitness') and .NET versions matter (e.g. 4+) for interacting with remote processes with the .NET CLRMD libraries.
   - For maximum inspection/coverage, build and run this program for x86 and x64 use cases.
   - Process sweep mode will attempt to connect to all running processes regardless of 'bitness'. It will otherwise fail accordingly for architecture mismatches.
 * Tested on Windows 10 Pro 2H1H and Windows Server 2016 Standard 1607. It may run on other versions with the relevant .NET Framework.
