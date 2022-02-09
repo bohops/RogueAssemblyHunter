@@ -73,7 +73,7 @@ Rogue Assembly Hunter was created to:
 ```
 [*] Parameters:
     
-    --mode=<.>   : Required | Select analysis mode. Options include scan, process, and watch.
+    --mode=<.>   : Required | Select analysis mode. Options include sweep, process, and watch.
 
     --hunt=<.>   : Optional | Select the hunt scan type to find interesting CLR modules. Specify all (default), memory-only, unusual-dir,
                    sig-status, imposter-file, or list.
